@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #ecf4ff;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.main {
+	height: 450px;
+	width: 400px;
+}
+.main .item a {
+	line-height: 35px;
+	color: #333;
+	display: block;
+	height: 35px;
+	text-decoration: none;
+	font-size: 18px;
+	padding-left: 10px;
+}
+.main .item .sub {
+	display: none;
+	padding-left: 25px;
+}
